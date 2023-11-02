@@ -4,12 +4,12 @@
     padding: 2px;
     margin: 4px;
     box-sizing: border-box;
-    background-color: #D7E5CA;
+    background-color: #B8F1B0;
     border: 15em;
 }
 
 header{
-    background-color: #D7E5CA;
+    background-color: #B8F1B0;
     background-size: cover;
     box-sizing: content-box;
     background-position-y: top;
@@ -19,16 +19,18 @@ header{
 }
 
 hr{
-    background-color: #5CD2E6;
+    background-color: #B8F1B0;
     width: 70%;
     height: 0.5px;
 }
 
+
+
 h1{
-    font-family: 'Unna', serif;
+    font-family: 'Alfa Slab One', serif;
     color: #C70039;
     font-size: 45px;
-    font-weight: 900;
+    font-weight: 200;
     background-size: cover;
     background-repeat: no-repeat;
     backface-visibility: visible;
@@ -53,27 +55,27 @@ h3{
 #italic{
     font-family: 'Macondo', cursive;
     font-size: 1px;
-    color: #016A70;
+    color: #C70A80;
     font-weight: 100;
 }
 
 .italic{
     font-family: 'Macondo', cursive;
     font-size: 20px;
-    color: #016A70;
+    color: #C70A80;
     font-weight: 750;
 }
 
 p{
     font-family: 'Unna', serif;
     font-size: 20px;
-    color: #5272F2;
+    color: #590696;
     font-weight: 650;
 }
 
 b{
     font-size: x-large;
-    color: seagreen;
+    color: #FF4949;
 }
 
 footer{
@@ -83,9 +85,7 @@ footer{
     font-weight: 700;
 }
 
-
-
-#bold{
+.bold{
     font-weight: 900;
     color :#2F3832;
     }
