@@ -61,7 +61,7 @@ h3{
 
 .italic{
     font-family: 'Macondo', cursive;
-    font-size: 20px;
+    font-size: 25px;
     color: #C70A80;
     font-weight: 750;
 }
@@ -74,8 +74,7 @@ p{
 }
 
 b{
-    font-size: x-large;
-    color: #FF4949;
+    
 }
 
 footer{
@@ -86,6 +85,8 @@ footer{
 }
 
 .bold{
-    font-weight: 900;
-    color :#2F3832;
+    font-weight: 800;
+    /* color :#2F3832; */
+    font-size: 20px;
+    color: #FF4949;
     }
