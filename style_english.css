@@ -25,54 +25,48 @@ hr{
 }
 
 h1{
-    font-family: 'Shrikhand', cursive;
+    font-family: 'Unna', serif;
     color: #C70039;
-    font-size: 35px;
+    font-size: 45px;
     font-weight: 900;
-    background-image: url("../assets/Angela/backgroundimage.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     backface-visibility: visible;
 }
 
-#project_name{
-    background-image: url("../assets/Angela/backgroundimage.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 h5{
     color: #662549;
-    font-size: 25px;
-    font-family: 'Chakra Petch', sans-serif;
-    font-weight: 850;
+    font-size: 30px;
+    font-family: 'Unna', serif;
+    font-weight: 650;
 }
 
 h3{
-    font-family: 'Chakra Petch', sans-serif;
-    font-size: 20px;
+    font-family: 'Unna', serif;
+    font-size: 40px;
     color: #662549;
-    font-weight: 800;
+    font-weight: 850;
 
 }
 
 #italic{
-    font-family: 'Martian Mono', monospace;
+    font-family: 'Macondo', cursive;
     font-size: 1px;
     color: #016A70;
     font-weight: 100;
 }
 
 .italic{
-    font-family: 'Martian Mono', monospace;
-    font-size: 1px;
+    font-family: 'Macondo', cursive;
+    font-size: 20px;
     color: #016A70;
-    font-weight: 100;
+    font-weight: 750;
 }
 
 p{
-    font-family: 'Chakra Petch', sans-serif;
-    font-size: 0%;
+    font-family: 'Unna', serif;
+    font-size: 20px;
     color: #5272F2;
     font-weight: 650;
 }
