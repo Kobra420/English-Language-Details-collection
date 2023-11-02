@@ -1,0 +1,97 @@
+
+
+*{
+    padding: 2px;
+    margin: 4px;
+    box-sizing: border-box;
+    background-color: #D7E5CA;
+    border: 15em;
+}
+
+header{
+    background-color: #D7E5CA;
+    background-size: cover;
+    box-sizing: content-box;
+    background-position-y: top;
+    padding: 0;
+    border: 0;
+    margin: 0%;
+}
+
+hr{
+    background-color: #5CD2E6;
+    width: 70%;
+    height: 0.5px;
+}
+
+h1{
+    font-family: 'Shrikhand', cursive;
+    color: #C70039;
+    font-size: 35px;
+    font-weight: 900;
+    background-image: url("../assets/Angela/backgroundimage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    backface-visibility: visible;
+}
+
+#project_name{
+    background-image: url("../assets/Angela/backgroundimage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h5{
+    color: #662549;
+    font-size: 25px;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 850;
+}
+
+h3{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 20px;
+    color: #662549;
+    font-weight: 800;
+
+}
+
+#italic{
+    font-family: 'Martian Mono', monospace;
+    font-size: 1px;
+    color: #016A70;
+    font-weight: 100;
+}
+
+.italic{
+    font-family: 'Martian Mono', monospace;
+    font-size: 1px;
+    color: #016A70;
+    font-weight: 100;
+}
+
+p{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 0%;
+    color: #5272F2;
+    font-weight: 650;
+}
+
+b{
+    font-size: x-large;
+    color: seagreen;
+}
+
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #15133C;
+    font-weight: 700;
+}
+
+
+
+#bold{
+    font-weight: 900;
+    color :#2F3832;
+    }
